@@ -1,3 +1,7 @@
+# Kaggle 
+This is the Kaggle challenge [Optiver - Trading at Close](https://www.kaggle.com/competitions/optiver-trading-at-the-close).
+Done by me.
+
 # Blog
 Read my  [blog]<!--() --> for a quick overview of the reason this repository is made..
 
@@ -32,6 +36,7 @@ On local machine:
     unzip optiver-trading-at-the-close.zip && rm -rf optiver-trading-at-the-close.zip
     ls -Al
 ```
+## yes or no
 
 # Run locally on your cpu (test if everything works)
 ## Secure notebook [optional]

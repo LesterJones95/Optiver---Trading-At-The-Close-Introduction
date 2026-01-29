@@ -1,4 +1,5 @@
-ARG BASE_IMAGE=quay.io/jupyter/base-notebook:python-3.11
+ARG BASE_IMAGE=jupyter/base-notebook:python-3.10
+# PYTHON_VERSION="3.10" for this notebook to work
 
 FROM $BASE_IMAGE
 
