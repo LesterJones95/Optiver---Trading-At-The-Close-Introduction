@@ -6,6 +6,7 @@ working/
 Dockerfile
 docker-compose.yaml
 src/model-example-kaggle.ipynb
+public_leaderboard.csv
 
 # Ignore archive
 archive/
